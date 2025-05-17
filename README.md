@@ -5,7 +5,7 @@ A Software Developer | Frontend Developer | UI/UX Designer | Web Designer | Web 
 🔭 I’m currently focused on exploring and building personal projects to enhance my skills as a Software Developer and Frontend Developer.<br>🌱 I’m actively improving my problem-solving abilities, creativity, and proficiency in modern software development tools and frameworks.<br>👯 I’m eager to collaborate on open-source projects, frontend and UI/UX initiatives, or any exciting web development opportunities.<br>🤝 I’m seeking mentorship and guidance to master best practices in software development, frontend frameworks, and UI/UX design.<br>👨‍💻 You can find all my projects on my GitHub: [https://github.com/KumaranR18](https://github.com/KumaranR18)<br>💬 Feel free to ask me about software development, web design, or frontend development.<br>📫 You can reach me via email at: [kumaran18062004@gmail.com](mailto:kumaran18062004@gmail.com)<br>
 
 ## 🌐 Connect with Me
-<a href="mailto:kumaran18062004@gmail.com" target="_blank" rel="noopener noreferrer" style="margin-right:10px;">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=kumaran18062004@gmail.com" target="_blank" rel="noopener noreferrer" style="margin-right:10px;">
   <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" alt="Email" width="30" />
 </a>&nbsp;&nbsp;
 
