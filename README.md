@@ -9,19 +9,19 @@ A Software Developer | Frontend Developer | UI/UX Designer | Web Designer | Web 
   <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" alt="Email" width="30" />
 </a>&nbsp;&nbsp;
 
-<a href="https://linkedin.com/in/Kumaran%20R" target="_blank" rel="noopener noreferrer" style="margin-right:10px;">
+<a href="https://www.linkedin.com/in/kumaran-r-a7638b24b/" target="_blank" rel="noopener noreferrer" style="margin-right:10px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="30" />
 </a>&nbsp;&nbsp;
 
-<a href="https://facebook.com/Kumaran%20R" target="_blank" rel="noopener noreferrer" style="margin-right:10px;">
+<a href="https://www.facebook.com/kumaran.6384?mibextid=ZbWKwL" target="_blank" rel="noopener noreferrer" style="margin-right:10px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Facebook_Logo_(2019).png" alt="Facebook" width="30" />
 </a>&nbsp;&nbsp;
 
-<a href="https://instagram.com/roman__rock__25" target="_blank" rel="noopener noreferrer" style="margin-right:10px;">
+<a href="https://www.instagram.com/roman____rock____25/profilecard/?igsh=MXg5Z2pwaHV5Mmp5cw==" target="_blank" rel="noopener noreferrer" style="margin-right:10px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Instagram" width="30" />
 </a>&nbsp;&nbsp;
 
-<a href="https://x.com/Kumaran_R04" target="_blank" rel="noopener noreferrer" style="margin-right:10px;">
+<a href="https://x.com/Kumaran_R04?t=mjxrYsnPOinc60kZfsg3uA&s=09" target="_blank" rel="noopener noreferrer" style="margin-right:10px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Twitter_new_X_logo.png" alt="X (Twitter)" width="30" />
 </a>
 
