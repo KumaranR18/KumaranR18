@@ -41,7 +41,7 @@ A Software Developer | Frontend Developer | UI/UX Designer | Web Designer | Web 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR56Lirdms1eL7chV3EXY-3qi1RVFGsjXELiQ&s" alt="Framer" width="60" style="vertical-align:middle;" />
 
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=KumaranR18&theme=merko&include_all_commits=true" alt="GitHub Stats"/>
   <br/>
